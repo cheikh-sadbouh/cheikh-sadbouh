@@ -1,9 +1,7 @@
-<h4 align="center">Hi 👋, I'm Java Software Developer Helping Companies build World-class Applications.</h4>
-<h5 align="center">Able to deliver projects using Java, JavaScript, RESTful API, and MySQL database, responsive and interactive user interface design, and data layer management. Implemented projects through entire SDLC using frameworks, web services, and design patterns for all layers.</h5>
+<h4 align="">Hi 👋, I'm Java Software Developer Helping Companies build World-class Applications.</h4>
+<h5 align="">Able to deliver projects using Java, JavaScript, RESTful API, and MySQL database, responsive and interactive user interface design, and data layer management. Implemented projects through entire SDLC using frameworks, web services, and design patterns for all layers.</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cheikh-sadbouh&label=Profile%20views&color=0e75b6&style=flat" alt="cheikh-sadbouh" /> </p>
-
-<p align="left"> <a href="https://twitter.com/_cheikhsadbouh_" target="blank"><img src="https://img.shields.io/twitter/follow/_cheikhsadbouh_?logo=twitter&style=for-the-badge" alt="_cheikhsadbouh_" /></a> </p>
 
 - 🔭 I’m currently working on **software modernization tool**
 
@@ -19,6 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  
+  https://img.shields.io/twitter/follow/_cheikhSadbouh_?style=social
 <a href="https://twitter.com/_cheikhsadbouh_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="_cheikhsadbouh_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/cheikh-sadbouh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="cheikh-sadbouh" height="30" width="40" /></a>
 <a href="https://fb.com/cheikh.salek" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="cheikh.salek" height="30" width="40" /></a>
