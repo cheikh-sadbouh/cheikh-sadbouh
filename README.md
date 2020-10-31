@@ -5,9 +5,25 @@
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@Ipenywis-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_cheikhsadbouh_")](https://twitter.com/_cheikhsadbouh_)
-[![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cheikh-sadbouh/)
-[![Mail Badge](https://img.shields.io/badge/-@islempenywis-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/_cheikh_s) [![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:cheikhsoftdev@gmail.com)
+<span>
+  <a href="https://twitter.com/_cheikhsadbouh_">
+  <img alt="guilyx | Twitter" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
+</a>
+ 
+<a href="https://www.linkedin.com/in/cheikh-sadbouh">
+  <img alt="guilyx's LinkdeIN" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
+</a>
+
+<a href="https://www.facebook.com/cheikh.salek">
+  <img alt="guilyx's Facebook" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
+</a>
+ 
+<a href="https://www.instagram.com/_cheikh_s">
+  <img alt="guilyx's Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
+  </a>
+  
+</span>
+
 - 🔭 I’m currently working on **software modernization tool**
 
 - 🌱 I’m currently learning **GraphQL, AWS and DevOps**
