@@ -1,20 +1,4 @@
-<h4 align="">Hi 👋, I'm Java Software Developer Helping Companies build World-class Applications.</h4>
-<h6 align="">Able to deliver projects using Java, JavaScript, RESTful API, and MySQL database, responsive and interactive user interface design, and data layer management. Implemented projects through entire SDLC using frameworks, web services, and design patterns for all layers.</h6>
-
-- 🔭 I’m currently working on **software modernization tool**
-
-- 🌱 I’m currently learning **GraphQL, AWS and DevOps**
-
-- 👯 I’m looking to collaborate on **open source repositories**
-
-- 💬 Ask me about **Java,Spring framework**
-
-- 📫 reach out to me  at **cheikhsoftdev@gmail.com**
-
-- ⚡ Fun fact **I love movies**
-
-<h3 align="left">Connect with me:</h3>
-
+<h4 align=""> ### Hey there</h4>
 <p>
   <br/>
 <a href="https://twitter.com/_cheikhsadbouh_">
@@ -32,9 +16,26 @@
 <a href="https://www.instagram.com/_cheikh_s">
   <img alt="guilyx's Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
 </a>
+![](https://visitor-badge.glitch.me/badge?page_id=cheikh-sadbouh.cheikh-sadbouh)
 
 </p>
+<h4 align="">Hi 👋, I'm Java Software Developer Helping Companies build World-class Applications.</h4>
 
+<h6 align="">Able to deliver projects using Java, JavaScript, RESTful API, and MySQL database, responsive and interactive user interface design, and data layer management. Implemented projects through entire SDLC using frameworks, web services, and design patterns for all layers.</h6>
+
+- 🔭 I’m currently working on **software modernization tool**
+
+- 🌱 I’m currently learning **GraphQL, AWS and DevOps**
+
+- 💬 Ask me about **Java,Spring framework**
+
+- 📫 How to reach me: **cheikhsoftdev@gmail.com**
+
+- ⚡ Fun fact **I love movies**
+
+- 💬 Ask me about anything [here](https://github.com/cheikh-sadbouh/cheikh-sadbouh/issues)
+
+- 🥅 2020 Goals: Contribute  to Open Source projects
 
 
 <h3 align="left">Languages and Tools:</h3>
