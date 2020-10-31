@@ -20,18 +20,15 @@
 <a href="https://twitter.com/_cheikhsadbouh_">
   <img alt="guilyx | Twitter" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
 </a>
-  |
-  |
+ 
 <a href="https://www.linkedin.com/in/cheikh-sadbouh">
   <img alt="guilyx's LinkdeIN" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
 </a>
-  |
-  |
+
 <a href="https://www.facebook.com/cheikh.salek">
   <img alt="guilyx's Facebook" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
 </a>
-  |
-  |
+ 
 <a href="https://www.instagram.com/_cheikh_s">
   <img alt="guilyx's Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
 </a>
