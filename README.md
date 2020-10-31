@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **software modernization tool**
 
-- 🌱 I’m currently learning **GraphQL,AWS,DevOps**
+- 🌱 I’m currently learning **GraphQL, AWS and DevOps**
 
 - 👯 I’m looking to collaborate on **open source repositories**
 
@@ -15,13 +15,22 @@
 - ⚡ Fun fact **love to help anyone**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/_cheikhsadbouh_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="_cheikhsadbouh_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/cheikh-sadbouh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="cheikh-sadbouh" height="30" width="40" /></a>
-<a href="https://fb.com/cheikh.salek" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="cheikh.salek" height="30" width="40" /></a>
-<a href="https://instagram.com/_cheikh_s" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_cheikh_s" height="30" width="40" /></a>
-  
-   <img src="https://komarev.com/ghpvc/?username=cheikh-sadbouh&label=Profile%20views&color=0e75b6&style=flat" alt="cheikh-sadbouh" /> 
+
+
+<p align="center">
+<br/>
+<a href="https://twitter.com/_cheikhsadbouh_">
+  <img alt="guilyx | Twitter" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
+</a>
+<a href="https://www.linkedin.com/in/cheikh-sadbouh">
+  <img alt="guilyx's LinkdeIN" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
+</a>
+<a href="https://www.facebook.com/cheikh.salek">
+  <img alt="guilyx's Facebook" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
+</a>
+<a href="https://www.instagram.com/_cheikh_s">
+  <img alt="guilyx's Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
+</a>
 
 </p>
 
