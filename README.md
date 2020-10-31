@@ -28,8 +28,6 @@
 
 - 🌱 I’m currently learning **GraphQL, AWS and DevOps**
 
-- 💬 Ask me about **Java,Spring framework**
-
 - ⚡ Fun fact **I love movies**
 
 - 💬 Ask me about anything [here](https://github.com/cheikh-sadbouh/cheikh-sadbouh/issues)
@@ -39,7 +37,7 @@
 
 <h3 align="left">Profile Visits:</h3>
 
-  ![](https://visitor-badge.glitch.me/badge?page_id=cheikh-sadbouh.cheikh-sadbouh)
+ <h4> ![](https://visitor-badge.glitch.me/badge?page_id=cheikh-sadbouh.cheikh-sadbouh) </h4>
 
 <h3 align="left">Languages and Tools:</h3>
 <br/>
