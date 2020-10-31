@@ -20,9 +20,11 @@
 <a href="https://linkedin.com/in/cheikh-sadbouh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="cheikh-sadbouh" height="30" width="40" /></a>
 <a href="https://fb.com/cheikh.salek" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="cheikh.salek" height="30" width="40" /></a>
 <a href="https://instagram.com/_cheikh_s" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_cheikh_s" height="30" width="40" /></a>
+  
+   <img src="https://komarev.com/ghpvc/?username=cheikh-sadbouh&label=Profile%20views&color=0e75b6&style=flat" alt="cheikh-sadbouh" /> 
+
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cheikh-sadbouh&label=Profile%20views&color=0e75b6&style=flat" alt="cheikh-sadbouh" /> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
