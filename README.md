@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Java Software Developer Helping Companies build World-class Applications.</h1>
-<h3 align="center">Able to deliver projects using Java, JavaScript, RESTful API, and MySQL database, responsive and interactive user interface design, and data layer management. Implemented projects through entire SDLC using frameworks, web services, and design patterns for all layers.</h3>
+<h4 align="center">Hi 👋, I'm Java Software Developer Helping Companies build World-class Applications.</h4>
+<h5 align="center">Able to deliver projects using Java, JavaScript, RESTful API, and MySQL database, responsive and interactive user interface design, and data layer management. Implemented projects through entire SDLC using frameworks, web services, and design patterns for all layers.</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cheikh-sadbouh&label=Profile%20views&color=0e75b6&style=flat" alt="cheikh-sadbouh" /> </p>
 
@@ -30,5 +30,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cheikh-sadbouh&show_icons=true&locale=en&layout=compact" alt="cheikh-sadbouh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cheikh-sadbouh&show_icons=true&locale=en" alt="cheikh-sadbouh" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=cheikh-sadbouh&show_icons=true&locale=en" alt="cheikh-sadbouh" /></p>
 
