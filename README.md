@@ -37,7 +37,7 @@
 
 <h3 align="left">Profile Visits:</h3>
 
- <h4> ![](https://visitor-badge.glitch.me/badge?page_id=cheikh-sadbouh.cheikh-sadbouh) </h4>
+![](https://visitor-badge.glitch.me/badge?page_id=cheikh-sadbouh.cheikh-sadbouh) 
 
 <h3 align="left">Languages and Tools:</h3>
 <br/>
