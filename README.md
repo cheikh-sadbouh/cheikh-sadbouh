@@ -1,6 +1,6 @@
 <h4 align=""> ### Hey there</h4>
-<p>
-  <br/>
+
+
 <a href="https://twitter.com/_cheikhsadbouh_">
   <img alt="guilyx | Twitter" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
 </a>
@@ -18,7 +18,7 @@
 </a>
 ![](https://visitor-badge.glitch.me/badge?page_id=cheikh-sadbouh.cheikh-sadbouh)
 
-</p>
+<br />
 <h4 align="">Hi 👋, I'm Java Software Developer Helping Companies build World-class Applications.</h4>
 
 <h6 align="">Able to deliver projects using Java, JavaScript, RESTful API, and MySQL database, responsive and interactive user interface design, and data layer management. Implemented projects through entire SDLC using frameworks, web services, and design patterns for all layers.</h6>
