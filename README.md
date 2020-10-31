@@ -1,30 +1,13 @@
-
-<span>
-  <h4 align="">  Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h4>
-  <a href="https://twitter.com/_cheikhsadbouh_">
-  <img alt="guilyx | Twitter" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
-</a>
- 
-<a href="https://www.linkedin.com/in/cheikh-sadbouh">
-  <img alt="guilyx's LinkdeIN" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
-</a>
-
-<a href="https://www.facebook.com/cheikh.salek">
-  <img alt="guilyx's Facebook" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
-</a>
- 
-<a href="https://www.instagram.com/_cheikh_s">
-  <img alt="guilyx's Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
-  </a>
-  ![](https://visitor-badge.glitch.me/badge?page_id=cheikh-sadbouh.cheikh-sadbouh)
-
-</span>
-
-
 <h4 align="">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm Java Software Developer Helping Companies build World-class Applications.</h4>
 
 <h6 align="">Able to deliver projects using Java, JavaScript, RESTful API, and MySQL database, responsive and interactive user interface design, and data layer management. Implemented projects through entire SDLC using frameworks, web services, and design patterns for all layers.</h6>
 
+
+:mailbox: Reach me out!
+
+[![Twitter Badge](https://img.shields.io/badge/-@Ipenywis-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_cheikhsadbouh_")](https://twitter.com/_cheikhsadbouh_)
+[![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cheikh-sadbouh/)
+[![Mail Badge](https://img.shields.io/badge/-@islempenywis-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/_cheikh_s) [![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:cheikhsoftdev@gmail.com)
 - 🔭 I’m currently working on **software modernization tool**
 
 - 🌱 I’m currently learning **GraphQL, AWS and DevOps**
@@ -39,6 +22,10 @@
 
 - 🥅 2020 Goals: Contribute  to Open Source projects
 
+
+<h3 align="left">Profile Visits:</h3>
+
+  ![](https://visitor-badge.glitch.me/badge?page_id=cheikh-sadbouh.cheikh-sadbouh)
 
 <h3 align="left">Languages and Tools:</h3>
 <br/>
