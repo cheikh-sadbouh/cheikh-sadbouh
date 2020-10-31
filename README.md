@@ -9,15 +9,15 @@
   <a href="https://twitter.com/_cheikhsadbouh_">
   <img alt="guilyx | Twitter" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
 </a>
- 
+ &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/cheikh-sadbouh">
   <img alt="guilyx's LinkdeIN" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
 </a>
-
+&nbsp;&nbsp;
 <a href="https://www.facebook.com/cheikh.salek">
   <img alt="guilyx's Facebook" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
 </a>
- 
+ &nbsp;&nbsp;
 <a href="https://www.instagram.com/_cheikh_s">
   <img alt="guilyx's Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
   </a>
@@ -29,8 +29,6 @@
 - 🌱 I’m currently learning **GraphQL, AWS and DevOps**
 
 - 💬 Ask me about **Java,Spring framework**
-
-- 📫 How to reach me: **cheikhsoftdev@gmail.com**
 
 - ⚡ Fun fact **I love movies**
 
