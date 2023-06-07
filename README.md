@@ -9,7 +9,6 @@
 
 
 
-<h3 align="left">Profile Visits:</h3>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=cheikh-sadbouh.cheikh-sadbouh) 
 
